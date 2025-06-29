@@ -12,9 +12,9 @@ _(Replace this link with your actual deployment URL)_
 Not just another virtual piano—this is an **interactive musical instrument** for the web. Designed with a clean, modern interface and built-in audio control, it supports both casual play and deep musical exploration.
 
 You can play it using:
-- 🖱️ Mouse
-- 🤳 Touchscreen
-- ⌨️ Keyboard
+-🖱️ Mouse
+-🤳 Touchscreen
+-⌨️ Keyboard
 
 ---
 
