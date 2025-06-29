@@ -3,8 +3,7 @@
 A feature-rich, browser-based piano application built with **vanilla JavaScript**, **TailwindCSS**, and the powerful **Tone.js Web Audio** framework. This project showcases dynamic UI generation, advanced audio synthesis, and responsive user interaction—creating a fun and immersive musical tool.
 
 ## 🚀 [Live Demo](#)  
-_(Replace this link with your actual deployment URL)_
-
+ https://interectivepiano.netlify.app/
 ---
 
 ## 📖 Description
